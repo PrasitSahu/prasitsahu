@@ -12,4 +12,4 @@
 
 - 💬 Ask me about **NodeJS, React, MongoDB, GraphQL, etc,.**
 
-- 📫 How to reach me **prasitsahu.dev@gmail.com**
+- 📫 How to reach me **prasitsahu4@gmail.com**
